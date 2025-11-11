@@ -1,6 +1,5 @@
 import sys
 
-
 if len(sys.argv) != 2:
     print("Usage: python temperature_check.py <temperature_in_Celsius>")
     sys.exit(1)
